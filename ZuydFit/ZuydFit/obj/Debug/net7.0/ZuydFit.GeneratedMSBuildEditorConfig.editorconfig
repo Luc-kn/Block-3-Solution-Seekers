@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ZuydFit
-build_property.ProjectDir = C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Block-3-Solution-Seekers\ZuydFit\ZuydFit\
+build_property.ProjectDir = C:\Users\melvi\OneDrive\Documenten\GitHub\Block-3-Solution-Seekers\ZuydFit\ZuydFit\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

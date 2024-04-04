@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZuydFit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c52e645dccc198c05c33d712fdb48de12d2d652")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZuydFit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZuydFit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
