@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\knopp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\melvi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\ZuydFit.csproj",
+      "projectUniqueName": "C:\\Users\\melvi\\OneDrive\\Documenten\\GitHub\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\ZuydFit.csproj",
       "projectName": "ZuydFit",
-      "projectPath": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\ZuydFit.csproj",
-      "packagesPath": "C:\\Users\\knopp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\obj\\",
+      "projectPath": "C:\\Users\\melvi\\OneDrive\\Documenten\\GitHub\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\ZuydFit.csproj",
+      "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\melvi\\OneDrive\\Documenten\\GitHub\\Block-3-Solution-Seekers\\ZuydFit\\ZuydFit\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\knopp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\melvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
